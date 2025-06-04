@@ -1,3 +1,3 @@
 # good_morning
-Ciao, sono Fabrizio
+Ciao, sono Fabrizio.
 In questo repository scriverò appunti su argomenti vari.
